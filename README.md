@@ -1,3 +1,4 @@
+[![API tests](https://github.com/berpress/TS-api-tests/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/berpress/TS-api-tests/actions/workflows/test.yml)
 # TS-api-tests
 API tests on TypeScript
 
